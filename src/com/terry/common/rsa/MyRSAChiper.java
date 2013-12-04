@@ -1,4 +1,4 @@
-package com.terry.pubickey;
+package com.terry.common.rsa;
 
 import java.security.GeneralSecurityException;
 import java.security.NoSuchAlgorithmException;
